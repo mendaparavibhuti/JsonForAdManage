@@ -13,7 +13,7 @@
   "is_add_show": "true",
   "is_native_banner_ad_show": "true",
   "is_livemode": "true",
-  "splash_ad_type": "AppOpen",
+  "splash_ad_type": "Interstitial",
   "ad_interval_second":"5",
   "interstitial_condition": "3",
   "spellings": "AppOpen,Interstitial,Native"
